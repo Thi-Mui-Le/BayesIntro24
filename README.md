@@ -70,22 +70,25 @@ Part 2</a></td>
 <tr class="odd">
 <td>19 June</td>
 <td>MCMC</td>
-<td></td>
+<td><a
+href="https://www.moodle.tum.de/pluginfile.php/5175787/mod_resource/content/1/session_9_MCMC.pdf">Slides</a></td>
 </tr>
 <tr class="even">
 <td>26 June</td>
 <td>Generalized linear models</td>
-<td></td>
+<td><a
+href="https://www.moodle.tum.de/pluginfile.php/5182434/mod_resource/content/1/session_10_generalized_linear_models.pdf">Slides</a></td>
 </tr>
 <tr class="odd">
-<td>03/10 July</td>
+<td>03 July</td>
 <td>Multilevel models</td>
-<td></td>
+<td><a
+href="https://www.moodle.tum.de/pluginfile.php/5188546/mod_resource/content/1/session_11_multilevel_models.pdf">Slides</a></td>
 </tr>
 <tr class="even">
-<td>17 July</td>
-<td>No class</td>
-<td>Outro is on 10 July</td>
+<td>10 July</td>
+<td>Outro</td>
+<td></td>
 </tr>
 </tbody>
 </table>
